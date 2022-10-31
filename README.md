@@ -14,3 +14,5 @@
 </div><br/>
 
 Apaixonado por tecnologia, informática e por grandes evoluções em geral.
+
+![snake gif](https://github.com/cesarrdm2004/cesarrdm2004/blob/output/github-contribution-grid-snake.svg)
