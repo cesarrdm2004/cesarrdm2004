@@ -5,6 +5,7 @@
 - 🌠 Dev. Full-Stack
 - 📫 Contate-me pelo email: cesarribeiropessoal@gmail.com
 - ⚡ Conhecimento HTML5, CSS, JAVASCRIPT, SQL
+
 ![César GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarrdm2004&show_icons=true&theme=radical)
 
 ## 
