@@ -4,8 +4,7 @@
 
 - 🌠 Dev. Full-Stack
 - 📫 Contate-me pelo email: cesarribeiropessoal@gmail.com
-- ⚡ Conhecimento HTML5, CSS, BOOTSTRAP, JAVASCRIPT, SQL, PHP, C#
-
+- ⚡ Conhecimento HTML5, CSS, JAVASCRIPT, SQL
 ![César GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarrdm2004&show_icons=true&theme=radical)
 
 ## 
@@ -14,10 +13,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"> 
-  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div><br/>
 
 ##
