@@ -3,7 +3,7 @@
 
 
 - 🌠 Dev. Full-Stack
-- 📫 Contate-me pelo email: cesarribeiroprofissional@gmail.com
+- 📫 Contate-me pelo email: cesarribeirodiasprofissional@gmail.com
 - ⚡ Conhecimento HTML5, CSS, SCRUM
 
 ![César GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarrdm2004&show_icons=true&theme=radical)
