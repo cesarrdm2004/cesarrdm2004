@@ -6,8 +6,6 @@
 - 📫 Contate-me pelo email: cesarribeirodiasprofissional@gmail.com
 - ⚡ Conhecimento HTML5, CSS, SCRUM
 
-![César GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarrdm2004&show_icons=true&theme=radical)
-
 ## 
 
 <div style="display: inline_block"><br/>
