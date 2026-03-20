@@ -2,7 +2,7 @@
 
 
 
-- 🌠 Dev. Full-Stack
+- 🌠 Dev. Front-End
 - 📫 Contate-me pelo email: cesarribeirodiasprofissional@gmail.com
 - ⚡ Conhecimento HTML5, CSS, JavaScript, SCRUM
 
